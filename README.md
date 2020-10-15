@@ -5,5 +5,5 @@
 Online AUC = 0.850±0.003
 ## Dessert
 一步到底
-# 结构化
+# 示例
 正确baseline打开实例&transformer
